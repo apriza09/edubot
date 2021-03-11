@@ -15,19 +15,19 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="900" />
 
 <p align="center">
-  <a href="https://github.com/hadsakmj"><img src="https://github-readme-stats.vercel.app/api?username=hadsakmj&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+  <a href="https://github.com/apriza09"><img src="https://github-readme-stats.vercel.app/api?username=apriza09&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/hadsakmj"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hadsakmj&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+  <a href="https://github.com/apriza09"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=apriza09&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadsakmj&theme=onedark" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apriza09&theme=onedark" /></a>
 </p>
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hadsakmj" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=apriza09" />
 </p>
 
 
@@ -35,8 +35,8 @@
 ## Ada Yang Error? Silahkan Hubungi Saya
 
 <p align='center'>
-   <a href="https://wa.me/6285716360512"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
-   <a href="https://instagram.com/newbie.user_"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
+   <a href="https://wa.me/6285716360512"><img height="50" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/newbie.user_"><img height="50" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
 
 
 ## Special Thanks
